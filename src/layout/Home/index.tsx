@@ -11,6 +11,7 @@ function Home() {
         <Menu mode="horizontal">
           <Menu.Item key="1">接口</Menu.Item>
           <Menu.Item key="2">设置</Menu.Item>
+          <Menu.Item key="2">格式配置</Menu.Item>
         </Menu>
       </Header>
     </Layout>
